@@ -1,6 +1,14 @@
-# Hi I am TheLastImperial
+# Hello!! I am Rafael Imperial
 
-## I am Rafael Imperial software developer  with 7 years experience and a Master degree in computer science. I really love learn something new.
+## I am software developer with 7 years experience and a Master degree in computer science. I really love learn something new.
+
+## Papers
+
+- [Sistema de Recolección y Procesamiento de Datos para Estudios de Tránsito](http://computo.fismat.umich.mx/smcc/ENC2021_CLQ.pdf#page=39)
+- [Analysis of Statistical and Artificial Intelligence Algorithms for Real-Time Speed Estimation based on Vehicle Detection with YOLO](https://www.mdpi.com/2076-3417/12/6/2907)
+
+
+## My skills
 
 <div align="left">
 
