@@ -7,16 +7,52 @@
 - [Sistema de Recolección y Procesamiento de Datos para Estudios de Tránsito](http://computo.fismat.umich.mx/smcc/ENC2021_CLQ.pdf#page=39)
 - [Analysis of Statistical and Artificial Intelligence Algorithms for Real-Time Speed Estimation based on Vehicle Detection with YOLO](https://www.mdpi.com/2076-3417/12/6/2907)
 
+## Certifications
+
+- [TOGAF 10](https://www.credly.com/badges/9eb0bbb2-d5e3-4307-abef-33a9ee502a57/linked_in?t=tc7r24)
 
 ## Project examples
 
-### [Clinical Register](https://github.com/TheLastImperial/spring-ms-cr)
+### Spring Boot
+
+Some example projects using Spring Boot.
+
+#### [Rabbit Example](https://github.com/TheLastImperial/spring-rabbitmq-example)
+
+Spring boot project using RabbitMQ and Redis as cache server.
+
+#### [Clinical Register](https://github.com/TheLastImperial/spring-ms-cr)
 
 This is a project example implemeted with microservices using Spring boot.
 Authenticated with email and password and a CRUD for patients.
 The Front end use ReactTS and MaterialUI.
 
 The project can run using docker compose and looking on `http://localhost:9091`.
+
+### React
+
+#### [Deepface UI](https://github.com/TheLastImperial/deepface-ui)
+
+ReactTS project used has front end for [Deepface](https://github.com/serengil/deepface).
+This project is implemented with docker and docker compose. Use 2 images, one image for
+Deepface project and another for this project deployed with Nginx.
+
+### Odoo examples
+
+Some example project usings Odoo.
+
+#### [Odoo state tutorial](https://github.com/TheLastImperial/odoo-tutorial-estate)
+
+Odoo addons tutorial from official page.
+
+#### [Odoo tutorial](https://github.com/TheLastImperial/odoo-tutorials)
+
+Odoo front end tutorial from official page.
+
+#### [TLI Shortlink](https://github.com/TheLastImperial/tli_shortlink)
+
+Personal project to create shortlinks with Odoo.
+
 
 ## My skills
 
