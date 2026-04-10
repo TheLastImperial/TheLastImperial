@@ -29,6 +29,11 @@ The Front end use ReactTS and MaterialUI.
 
 The project can run using docker compose and looking on `http://localhost:9091`.
 
+#### [Webtoken-demo](https://github.com/TheLastImperial/webtoken-demo)
+
+This project is used to create a JWT and used to access diferents URLs for specific roles.
+
+
 ### React
 
 #### [Deepface UI](https://github.com/TheLastImperial/deepface-ui)
